@@ -2,7 +2,7 @@
     "name": "Web Calculator",
     "short_name": "Calc",
     "theme_color": "#FFF",
-    "start_url": "/calculator-app",
+    "start_url": "/calculator-app/",
     "display": "standalone",
     "orientation": "portrait"
 }
